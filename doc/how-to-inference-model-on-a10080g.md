@@ -73,7 +73,6 @@ A100 80GB 한 장으로 가능합니다. 다만 FP16/BF16은 거의 확실히 �
 
 ---
 
-원하시면 **배치/컨텍스트/양자화(4/8bit)** 조건을 주시면, 그 값으로 **예상 VRAM(가중치+KV 캐시) 계산**과 함께 **정확 실행 커맨드**를 바로 맞춰 드릴게요.
 
 [1]: https://blog.vllm.ai/2025/04/05/llama4.html?utm_source=chatgpt.com "Llama 4 in vLLM"
 [2]: https://discuss.vllm.ai/t/moe-quantization/594?utm_source=chatgpt.com "MoE quantization - vLLM Forums"
